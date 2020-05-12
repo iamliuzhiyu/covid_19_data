@@ -8,6 +8,8 @@ edgedriver[下载](https://developer.microsoft.com/en-us/microsoft-edge/tools/we
 
 注意下载后要拷到python根目录然后重启电脑。
 
+下面的也是一样的安装完了要重启。
+
 然后安装selenium。
 
 这一步要挂梯子！
