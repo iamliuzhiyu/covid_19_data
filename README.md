@@ -102,7 +102,7 @@ print("截图完成！")
 ```
 下面就是自动执行登陆微信+发微信：
 ```
-os.system('python "E:\\python_study\\py\\covid-19-shanghai-data\\weixin.py"')
+os.system('python "['weixin.py'路径]"') # 注意这里要改一下
 # os.system()可以将括号内的内容发送到系统终端
 ```
 好了，第一个文件编好了，下面贴上第一个文件全部代码：
@@ -128,9 +128,11 @@ sh_filename = "COVID-19.Shanghai." + str(datetime.date.today()) + ".png"
 wd_filename = "COVID-19.World." + str(datetime.date.today()) + ".png"
 im_sh.save('E:\\covid19_data\\Shanghai\\' + sh_filename)
 im_wd.save('E:\\covid19_data\\World\\' + wd_filename)
+# 上面文件名和路径改成你自己的文件名和路径
 print("截图完成！")
 
 os.system('python "E:\\python_study\\py\\covid-19-shanghai-data\\weixin.py"')
+# 上面路径改成你自己的路径
 ```
 ---
 这里是第二个文件啦，只要截图保存的退出吧。
