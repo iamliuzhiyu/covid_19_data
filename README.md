@@ -231,6 +231,11 @@ pyautogui.click()
 ```
 pyautogui.press('enter')
 ```
+退出脚本
+```
+exit()
+```
+
 好了，发送成功（上面的代码要粘两遍，第二遍路径改成上海数据截图）
 
 这里贴上本次编写的全部代码：
@@ -318,6 +323,7 @@ if login == "y":
     pyautogui.click()
     pyautogui.press('enter')
     print("发送成功！")
+    exit()
 ```
 最后的最后，连拷贝粘贴都懒得干的请自行下载源文件.
 
