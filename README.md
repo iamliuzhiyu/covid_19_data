@@ -53,7 +53,7 @@ pip install whell
 ```
 pip install pyautogui
 ```
-上面几个命令都要挂梯子，挂梯子方法看上边
+上面几个命令都要挂梯子，挂梯子方法看上边👆
 
 然后开始敲代码：
 
