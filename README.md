@@ -1,4 +1,4 @@
-![题图](https://github.com/iamliuzhiyu/covid_19_data/blob/master/%E9%A2%98%E5%9B%BE.png)
+![题图](https://github.com/iamliuzhiyu/datas/blob/master/%E9%A2%98%E5%9B%BE.png)
 
 # 用selenium和pyautogui模块实现Python自动截取新冠肺炎疫情上海、全球数据图片
 
