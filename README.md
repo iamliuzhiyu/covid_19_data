@@ -8,7 +8,7 @@
 
 edgedriver[下载](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
-注意下载后要拷到python根目录然后重启电脑。
+注意下载后要解压然后拷到python根目录然后重启电脑。
 
 下面的也是一样的安装完了要重启。
 
