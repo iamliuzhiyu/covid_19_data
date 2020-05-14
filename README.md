@@ -328,3 +328,7 @@ if login == "y":
 最后的最后，连拷贝粘贴都懒得干的请[点这里](https://github.com/iamliuzhiyu/covid_19_data/releases).
 
 对了，运行完了记得多按个回车。
+
+---
+
+END
