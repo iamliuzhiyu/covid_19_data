@@ -328,3 +328,11 @@ if login == "y":
 最后的最后，连拷贝粘贴都懒得干的请[点这里](https://github.com/iamliuzhiyu/covid_19_data/releases).
 
 对了，运行完了记得多按个回车。
+
+***
+
+# 使用说明
+
+拆分版运行covid_19_shanghai_data.py即可
+
+整合版直接运行整合版.py
