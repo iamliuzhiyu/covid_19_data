@@ -2,10 +2,6 @@
 
 # 用selenium和pyautogui模块实现Python自动截取新冠肺炎疫情上海、全球数据图片
 
-<small>原著:`iamliuzhiyu`<small>
-
-<small>转载时请附上这两行文字,否则视为侵权.<small>
-
 前几天突发奇想，想用Python实现自动截取新冠肺炎疫情数据并发到微信群。
 
 首先，用edgedriver驱动MSEdge（chromedriver没有canary版），
@@ -334,3 +330,7 @@ if login == "y":
 对了，运行完了记得多按个回车。
 
 >END
+
+>原著:`iamliuzhiyu`
+
+>转载时请附上这两行文字,否则视为侵权.
