@@ -8,3 +8,7 @@ An open source, free COVID-19 real-time data interceptor and transmitter.
 
 
 The project aims to help more people keep up to date with the latest COVID-19 data.
+
+## THIS PROJECT IS STOP DEVELOPMENT
+## 此项目已终止开发
+详见WARNING.md
